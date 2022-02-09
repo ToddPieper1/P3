@@ -1,5 +1,4 @@
 #include <iostream>
-#include "SectionA.h"
 using namespace std;
 
 int main()
